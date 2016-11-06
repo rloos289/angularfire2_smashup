@@ -1,0 +1,4 @@
+<div class="deck" *ngFor="let deck of childDeckList | async">
+  <p>Deck Name: {{deck.name}}</p>
+  <p>Set: {{deck.set}}</p>
+</div>
