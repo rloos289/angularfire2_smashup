@@ -1,0 +1,18 @@
+{ "decks": [{
+  "name": "Pirates",
+  "set": "Original",
+  "cards": 20
+}, {
+  "name": "Zombies",
+  "set": "Original",
+  "cards": 20
+}, {
+  "name": "Princesses",
+  "set": "Pretty Pretty Smashup",
+  "cards": 20
+}, {
+  "name": "Werewolves",
+  "set": "Monster Smash",
+  "cards": 20
+}]
+}
